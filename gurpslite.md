@@ -2007,23 +2007,23 @@ TL | Weapon | Damage | Cost | Weight | ST | Notes
 TL | Weapon | Damage | Cost | Weight | ST | Notes
 ---: | :--- | :--- | ---: | ---: | ---: | :---
 2 | Broadsword | sw+1 cut | $500 | 3 | 10 |
- | *or* | thr+1 cr | – | – | 10 |
+. | *or* | thr+1 cr | – | – | 10 |
 2 | Thrusting Broadsword | sw+1 cut | $600 | 3 | 10 |
- | *or* | thr+2 imp | – | – | 10 |
+. | *or* | thr+2 imp | – | – | 10 |
 
 ###### KNIFE (DX-4) {#knife}
 
 TL | Weapon | Damage | Cost | Weight | ST | Notes
 ---: | :--- | :--- | ---: | ---: | ---: | :---
 0 | Large Knife | sw-2 cut | $40 | 1 | 6 |
- | *or* | thr imp | – | – | 6 | \[1\]
+. | *or* | thr imp | – | – | 6 | \[1\]
 
 ###### POLEARM (DX-5) {#polearm}
 
 TL | Weapon | Damage | Cost | Weight | ST | Notes
 ---: | :--- | :--- | ---: | ---: | ---: | :---
 3 | Poleaxe | sw+4 cut | $120 | 10 | 12‡ |
- | *or* | sw+4 cr | – | – | 12‡ |
+. | *or* | sw+4 cr | – | – | 12‡ |
 
 ###### RAPIER (DX-5) {#rapier}
 
@@ -2036,7 +2036,7 @@ TL | Weapon | Damage | Cost | Weight | ST | Notes
 TL | Weapon | Damage | Cost | Weight | ST | Notes
 ---: | :--- | :--- | ---: | ---: | ---: | :---
 2 | Shortsword | sw cut | $400 | 2 | 8 |
- | *or* | thr imp | – | – | 8 |
+. | *or* | thr imp | – | – | 8 |
 
 ```20```
 
@@ -2047,23 +2047,23 @@ ______________________________________________________________________________
 TL | Weapon | Damage | Cost | Weight | ST | Notes
 ---: | :--- | :--- | ---: | ---: | ---: | :---
 0 | Spear | thr+2 imp | $40 | 4 | 9 | \[1\]
- | | *two hands* | thr+3 imp | – | – | 9† |
+. | | *two hands* | thr+3 imp | – | – | 9† |
 
 ###### STAFF (DX-5) {#staff}
 
 TL | Weapon | Damage | Cost | Weight | ST | Notes
 ---: | :--- | :--- | ---: | ---: | ---: | :---
 0 | Quarterstaff | sw+2 cr | $10 | 4 | 7† |
- | *or* | thr+2 cr | – | – | 7† |
+. | *or* | thr+2 cr | – | – | 7† |
 
 ###### TWO-HANDED SWORD (DX-5) {#two-handed-sword}
 
 TL | Weapon | Damage | Cost | Weight | ST | Notes
 ---: | :--- | :--- | ---: | ---: | ---: | :---
 0 | Quarterstaff | sw+2 cr | $10 | 4 | 9† |
- | *or* | thr+1 cr | – | – | 9† |
+. | *or* | thr+1 cr | – | – | 9† |
 3 | Thrusting Greatsword | sw+3 cut | $900 | 7 | 12†
- | *or* | thr+3 imp | – | – | 12† |
+. | *or* | thr+3 imp | – | – | 12† |
 
 ###### Notes {#notes2}
 
@@ -3190,7 +3190,7 @@ If you get clean air before you die, you stop losing FP and start to recover FP 
 
 If you went without air for more than two minutes, roll vs. HT to avoid permanent brain damage: -1 to IQ.
 
-### GAME WORLDS {game-worlds}
+### GAME WORLDS {#game-worlds}
 
 When designing a new setting for your game, start with the checklist below. It is by no means exhaustive, but if you take the time to describe these items, you’ll be off to a good start.
 
