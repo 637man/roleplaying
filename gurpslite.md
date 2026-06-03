@@ -99,7 +99,7 @@ Illustrated by CHRIS DIEN, TORSTEIN NORDSTRAND, BOB STEVLIC, and ERIC WILKERSON 
 : The basic rule system is designed to emphasize realism. It can fit any situation – fantasy or historical; past, present, or future.
 
 *“RolePlaying.”*
-: This is not just a “hackand-slash” game. The rules are written to make true roleplaying possible – and to encourage it. In ***GURPS***, you pretend, for a little while, to be someone else.
+: This is not just a “hack-and-slash” game. The rules are written to make true roleplaying possible – and to encourage it. In ***GURPS***, you pretend, for a little while, to be someone else.
 
 *“System.”*
 : Over 200 different books have been published for ***GURPS***, in eight different languages (so far). It is one of the recognized standards for roleplaying, worldwide.
