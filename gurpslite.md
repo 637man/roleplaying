@@ -935,7 +935,7 @@ You are not in full control of your emotions. Make a self-control roll in any st
 
 You want to see your foes *dead*. In battle, you must go for killing blows, and put in an extra shot to make sure of a downed foe. You must make a self-control roll whenever you need to accept a surrender, evade a sentry, take a prisoner, etc. If you fail, you attempt to kill your foe instead – even if that means breaking the law, compromising stealth, wasting ammo, or violating orders. Out of combat, you never forget that a foe is a foe.
 
-##### Code of Honor -5 to -15 points {#code-of-honor}
+##### Code of Honor: -5 to -15 points {#code-of-honor}
 
 You take pride in a set of principles that you follow at all times. The specifics can vary, but they always involve “honorable” behavior. You will do nearly anything – perhaps even risk death – to avoid the label “dishonorable” (whatever that means to you).
 
