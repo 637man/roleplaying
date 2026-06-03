@@ -164,9 +164,7 @@ ______________________________________________________________________________
 
 ## THE BASICS {#the-basics}
 
-***GURPS*** uses six-sided dice only. To figure combat damage (and several other things), the “dice+adds” system is used. If a weapon does
-“4d+2” damage, this is shorthand for “roll 4 dice and add 2 to the total.” Likewise, “3d-3” means “roll 3 dice and subtract 3 from the total.”
-If you see just “2d,” that means “roll two dice.”
+***GURPS*** uses six-sided dice only. To figure combat damage (and several other things), the “dice+adds” system is used. If a weapon does “4d+2” damage, this is shorthand for “roll 4 dice and add 2 to the total.” Likewise, “3d-3” means “roll 3 dice and subtract 3 from the total.” If you see just “2d,” that means “roll two dice.”
 
 ***GURPS Lite*** has only three basic “game mechanics”: success rolls, reaction rolls, and damage rolls.
 
