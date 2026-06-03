@@ -1983,7 +1983,7 @@ The numbers listed here refer to applicable footnotes (if any) at the end of the
 
 Melee weapons are grouped under the skills required to use them. Skill names appear in capital letters, with defaults in parentheses; e.g., “**AXE/MACE (DX-5)**.” If there is more than one way to use a weapon, each method gets its own line. If multiple skills let you use a weapon, the weapon appears under each skill. For example, both Staff skill and Two-Handed Sword skill let you wield a quarterstaff – and either lets you swing the staff or thrust with it.
 
-##### Melee Weapon Table {#melee-weapn-table}
+##### Melee Weapon Table {#melee-weapon-table}
 
 ###### AXE/MACE (DX-5) {#axe-mace}
 
