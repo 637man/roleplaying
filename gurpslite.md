@@ -241,8 +241,7 @@ When you roll a critical success, the GM determines what happens. It is always s
 A *critical failure* is an especially *bad* result.
 
 * A roll of 18 is *always* a critical failure.
-* A roll of 17 is a critical failure *if your
-effective skill is 15 or less*; otherwise, it is an ordinary failure.
+* A roll of 17 is a critical failure *if your effective skill is 15 or less*; otherwise, it is an ordinary failure.
 * Any roll of 10 or more greater than your *effective* skill is a critical failure: 16 on a skill of 6, 15 on a skill of 5, and so on.
 
 ```2```
