@@ -2987,6 +2987,7 @@ It takes one minute to apply pressure or a tourniquet to stop bleeding. This res
 After bandaging, the aid-giver may take extra time to apply a more elaborate dressing and treat the victim for shock. He must keep the victim warm, comfortable, calm, and still. After the time indicated on the *First Aid Table*, below, he may roll against First Aid skill.
 
 ```30```
+
 ______________________________________________________________________________
 
 On a success, the medic rolls as indicated on the table to see how many HP the victim recovers – minimum 1 HP. A critical success restores the maximum possible HP! This roll *includes* the 1 HP for bandaging; thus, a roll of 1 HP restores no further HP.
@@ -3091,6 +3092,7 @@ An object in a collision inflicts dice of crushing damage equal to (HP × veloci
 If a moving object hits a stationary object that is too big to push aside – like the ground, a mountain, or an iceberg – it inflicts its usual collision damage on that object and on *itself*. If the obstacle is breakable, the moving object cannot inflict or take more damage than the obstacle’s HP + DR.
 
 ```31```
+
 ______________________________________________________________________________
 
 ###### Falling {#falling}
@@ -3203,4 +3205,5 @@ When designing a new setting for your game, start with the checklist below. It i
 *The Campaign Planning Form and other* ***GURPS*** *forms and support material may be downloaded at* [**www.sjgames.com/gurps/resources**](https://www.sjgames.com/gurps/resources/).
 
 ```32```
+
 ______________________________________________________________________________
