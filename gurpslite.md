@@ -2148,8 +2148,7 @@ TL | Weapon | Ammo | Damage | Acc | Range | Weight | RoF | Shots | ST | Cost
 
 ## PLAYING THE GAME {#playing-the-game}
 
-We’ve seen the rules for creating and equipping characters. Now here’s how to do things. The GM describes a situation and asks each of the players what his character is doing. The players answer, and the GM tells them what happens next. At some point, the GM won’t be certain that the characters can automatically do what the players say they are doing . . . “You’re carrying *what* and jumping the chasm?” . . . and
-the dice come out.
+We’ve seen the rules for creating and equipping characters. Now here’s how to do things. The GM describes a situation and asks each of the players what his character is doing. The players answer, and the GM tells them what happens next. At some point, the GM won’t be certain that the characters can automatically do what the players say they are doing . . . “You’re carrying *what* and jumping the chasm?” . . . and the dice come out.
 
 > #### Encumbrance and Move {#encumbrance-and-move}
 >
