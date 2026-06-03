@@ -1304,7 +1304,7 @@ This is the ability to serve as crew aboard a large vehicle. It includes familia
 
 This is the study of crime and the criminal mind. A successful skill roll allows you to find and interpret clues, guess how criminals might behave, etc.
 
-##### Diagnosis/TL (IQ/H) {$diagnosis}
+##### Diagnosis/TL (IQ/H) {#diagnosis}
 
 *Default:* IQ-6.
 
