@@ -1561,22 +1561,22 @@ For each type of armor, the following information is listed:
 
 Type | TL | PD | DR | Cost | Weight
 :--- | :---: | ---: | ---: | ---: | ---:
-Ordinary clothing | any | 0 | varies! | 1
-Padded cloth armor | 1-4 | 1 | $180 | 14
-Leather jacket†† | 1-8 | 1 | $50 | 4
-Light leather armor | 1-4 | 1 | $210 | 10
-Heavy leather armor | 1-4 | 2 | $350 | 20
-Chainmail | 3-4 | 3\* | $550 | 45
-Scale armor | 2-4 | 3 | $750 | 50
-Half plate\*\* | 2-4 | 4 | $2,000 | 70
-Light plate\*\* | 3-4 | 4 | $4,000 | 90
-Heavy plate\*\* | 3-4 | 4 | $6,000 | 110
-Flak jacket† | 6 | 2 | $220 | 17
-Kevlar (light) | 7 | 2\* | $220 | 5
-Kevlar (heavy) | 7 | 2\* | $420 | 9
-Light body armor | 7+ | 4 | $270 | 22
-Medium body armor | 8+ | 6 | $1,520 | 32
-Heavy body armor | 9+ | 6 | $2,520 | 52
+Ordinary clothing | any | 0 | 0 | varies! | 1
+Padded cloth armor | 1-4 | 1 | 1 | $180 | 14
+Leather jacket†† | 1-8 | 1 | 1 | $50 | 4
+Light leather armor | 1-4 | 1 | 1 | $210 | 10
+Heavy leather armor | 1-4 | 2 | 2 | $350 | 20
+Chainmail | 3-4 | 3\* | 4\* | $550 | 45
+Scale armor | 2-4 | 3 | 4 | $750 | 50
+Half plate\*\* | 2-4 | 4 | 5 | $2,000 | 70
+Light plate\*\* | 3-4 | 4 | 6 | $4,000 | 90
+Heavy plate\*\* | 3-4 | 4 | 7 | $6,000 | 110
+Flak jacket† | 6 | 2 | 3 | $220 | 17
+Kevlar (light) | 7 | 2\* | 4\* | $220 | 5
+Kevlar (heavy) | 7 | 2\* | 12\* | $420 | 9
+Light body armor | 7+ | 4 | 15 | $270 | 22
+Medium body armor | 8+ | 6 | 25 | $1,520 | 32
+Heavy body armor | 9+ | 6 | 50 | $2,520 | 52
 
 \* PD 1, DR 2 vs. impaling.
 
@@ -2115,7 +2115,6 @@ Draft horse | 60 | 9 | 4 | 16 | 12 | $2000 | 2000 |
 Ox | 80 | 8 | 4 | 17 | 8 | $1500 | 2500+ |
 Camel | 40 | 9 | 4 | 15 | 10 | $1500 | 1400 | Vicious; drinks little.
 
-
 ## PLAYING THE GAME {#playing-the-game}
 
 We’ve seen the rules for creating and equipping characters. Now here’s how to *do* things. The GM describes a situation and asks each of the players what his character is doing. The players answer, and the GM tells them what happens next. At some point, the GM won’t be certain that the characters can automatically do what the players say they are doing . . . “You’re carrying *what* and jumping the chasm?” . . . and the dice come out.
@@ -2166,7 +2165,6 @@ Rope, going up | -2 | 1 ft./sec. | 20 ft./min.
 Rope, going down | | |
 (w/o equipment) | -1 | 2 ft./sec. | 30 ft./min.
 (w/ equipment) | -1 | 12 ft./sec. | 12 ft./sec.
-
 
 #### Lifting and Moving Things {#lifting-and-moving-things}
 
