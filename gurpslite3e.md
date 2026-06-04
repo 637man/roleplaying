@@ -57,7 +57,7 @@ Graphic Design • JACK ELMY
     3. [SOME COMMON SPELLS](#some-common-spells)
 7. [GAME WORLDS](#game-worlds)
     1. [JOBS](#jobs)
-    2. [GAME TIME]{#game-time}
+    2. [GAME TIME](#game-time)
     3. [TECH LEVELS](#tech-levels)
     4. [TRAVEL BETWEEN GAME WORLDS](#travel-between-game-worlds)
 
