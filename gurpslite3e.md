@@ -413,7 +413,7 @@ __-1 | _FLAMBOYANT SHOWOFF____________ # ______________________________________ 
 ___0 | _CANNOT READ___________________ # ______________________________________ #                                 #
      |                                 #                                        # TOTAL                      100  #
      \#############################################################################################################
-                                            Copyright © 1998 Steve Jackson Games Incorporated. All rights reserved.
+                                            Copyright © 1988 Steve Jackson Games Incorporated. All rights reserved.
 ```
 * Header
     + [Appearance](#appearance) - see p. 5
