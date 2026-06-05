@@ -422,7 +422,7 @@ ___0 | _CANNOT READ___________________ # ______________________________________ 
     + [Unspent Points](#character-improvement) - see p. 21
     + [Point Total](#character-points) - see p. 3
 * Left column
-    + [ST, DX, IQ, IT](#attributes) - see p. 3
+    + [ST, DX, IQ, HT](#attributes) - see p. 3
     + [FATIGUE](#fatigue) - see p. 29
     + [BASIC DAMAGE](#damage-types-and-damage-bonus) - see p. 18
     + [HITS TAKEN](#injury) - see p. 26
